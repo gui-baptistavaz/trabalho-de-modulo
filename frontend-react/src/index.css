@@ -1,0 +1,71 @@
+body{
+  font-family:Arial, Helvetica, sans-serif ;
+  
+}
+
+nav{
+  text-align: center;
+  background-color: midnightblue; 
+  font-size:x-large;  
+}
+
+.nav-item:hover{
+  background-color: rgb(25, 25, 92);
+  border-radius: 5%;
+}
+
+.nav-logo{
+  width: 80px;
+  height: 80pxw;
+}
+
+.bg-nav{
+  background-color: midnightblue;
+}
+
+footer{
+  height: 110px;
+  text-align: center;
+}
+
+.topleft {
+  position: absolute;
+  top: 130px;
+  left: 105px;
+  font-size: 45px;
+  color: mintcream;
+  background-color: rgb(0, 0, 0, 0.4);
+
+}
+
+#img1{
+  width:  325px;
+  height: 65px;   
+}
+
+.img-lj{
+  width: 400px;
+  height: 260px;
+  margin: 30px;
+  border-radius: 5%;
+}
+
+.img-td{
+  width: 200px;
+  height: 130px;
+  border-radius: 10%;
+}
+
+.td-lugares{
+  width:"33%";
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.descricao{
+  font-size: 22px;
+}
+
+.btn-comprar{
+  width: 40%;
+}
